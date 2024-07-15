@@ -1,4 +1,5 @@
 # Postman
-![image](https://github.com/user-attachments/assets/664fdad9-415c-4e21-b433-ff50401ff07f)
-![image1](https://github.com/user-attachments/assets/3fcce4a0-e79a-4a5d-b40c-c67e9d577a5d)
-![image2](https://github.com/user-attachments/assets/ea083538-9a78-476e-beab-a0123a9814fc)
+![image](https://github.com/user-attachments/assets/c2bf6e62-9fd2-43f4-9594-b10228c870a6)
+![image](https://github.com/user-attachments/assets/b3a4f5aa-a1c7-4efd-9f63-f5f796ebbcb3)
+![image](https://github.com/user-attachments/assets/aabb1449-1475-43a4-80e0-a6a3887db020)
+
